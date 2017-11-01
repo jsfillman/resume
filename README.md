@@ -3,7 +3,22 @@
 
 #### EXPERIENCE:
 #### SOLUTIONS ARCHITECT - CLEARVISION CM, SAN FRANCISCO, CA — 2016-CURRENT
-* 
+* Leads Clearvision's team of West Coast-based Client Services consultants.
+* Designs and implements advanced Atlassian solutions, based on client business requirements.
+* Designs and implements system infrastructure for clients, with a focus on high-availability.
+* Assisted Atlassian in the creation of their [ACP-500 Atlassian System Administrator](https://www.atlassian.com/university/certification/certifications/exam-acp-500) exam.
+* Serves as subject matter expert for:
+	* High Availability
+	* SAML Authentication
+	* LDAP and Active Directory Integrations
+	* Linux Administration
+	* System Security
+* Provides training to both clients and new Clearvision employees on:
+	* JIRA Administration
+	* Advanced JIRA Workflows
+	* Bitbucket Administration
+	* Advanced Git
+
 #### DEVELOPER TOOLS ENGINEER - MACHINE ZONE INC, PALO ALTO, CA — 2014-2016
 * Founded and grew the Internal Dev Tools team to a team of 3 engineers.
 * Took ownership of all core developer tools including:
