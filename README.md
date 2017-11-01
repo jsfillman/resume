@@ -1,8 +1,10 @@
-**[Jason S. Fillman](https://www.linkedin.com/in/jasonfillman) - Dev Tools Engineer - [jason@jasonfillman.com](mailto://jason@jasonfillman.com)**
+**[Jason S. Fillman](https://www.linkedin.com/in/jasonfillman) - Solutions Architect - [jason@jasonfillman.com](mailto://jason@jasonfillman.com)**
 
 
 #### EXPERIENCE:
-#### DEVELOPER TOOLS ENGINEER - MACHINE ZONE INC, PALO ALTO, CA — 2014-CURRENT
+#### SOLUTIONS ARCHITECT - CLEARVISION CM, SAN FRANCISCO, CA — 2016-CURRENT
+* 
+#### DEVELOPER TOOLS ENGINEER - MACHINE ZONE INC, PALO ALTO, CA — 2014-2016
 * Founded and grew the Internal Dev Tools team to a team of 3 engineers.
 * Took ownership of all core developer tools including:
 	* Git (BitBucket Data Center, GitLab, GitHub Enterprise, Phabricator)
@@ -28,7 +30,7 @@
 * Automated systems deployment and configuration via Ansible.
 
 
-#### SR. TOOLS DEVELOPER - GOOD TECHNOLOGY; SUNNYVALE, CA — 2012-CURRENT
+#### SR. TOOLS DEVELOPER - GOOD TECHNOLOGY; SUNNYVALE, CA — 2012-2014
 * Installed, managed, and configured the entire suite of Atlassian’s on-premise products.
 * Maintained test case management (TestRail) & Agile planning (JIRA Agile) tools.
 * Integrated Active Directory & Crowd SSO authentication into all Tools servers and services.
@@ -45,9 +47,8 @@
 * Purchased & implemented new software-defined storage system.
 * Built new accompanying storage network with Arista 10GbE hardware.
 * Installed and deployed Splunk for log and trend analysis.
-* Facilitatied initiative to put “Everything in Git” (configs, automation, etc.).
-* from legacy VCS & build systems to Stash/Git & Bamboo.
-* Investigated proof of concept private cloud to replace legacy VMWare Lab Manager.
+* Facilitatied initiative to put “Everything in Git” (configs, automation, etc.) from legacy VCS & build systems to Stash/Git & Bamboo.
+* Designed proof of concept private cloud, based on OpenStack, to replace legacy VMWare Lab Manager.
 
 
 #### SYSTEMS ADMINISTRATOR - UNIVERSITY OF TEXAS; AUSTIN, TX — 2008-2012
