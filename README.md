@@ -9,6 +9,7 @@
 * Assisted Atlassian in the creation of their [ACP-500 Atlassian System Administrator](https://www.atlassian.com/university/certification/certifications/exam-acp-500) exam.
 * Serves as subject matter expert for:
 	* High Availability
+	* Public Cloud Deployments
 	* SAML Authentication
 	* LDAP and Active Directory Integrations
 	* Linux Administration
