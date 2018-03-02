@@ -7,6 +7,7 @@
 * Designs and implements advanced Atlassian solutions, based on client business requirements.
 * Designs and implements system infrastructure for clients, with a focus on high-availability.
 * Assisted Atlassian in the creation of their [ACP-500 Atlassian System Administrator](https://www.atlassian.com/university/certification/certifications/exam-acp-500) exam.
+* Certified as both a [JIRA Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2017-10-17&ci=AT00131508) and [Atlassian System Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=5&t=c&d=2017-04-25&ci=AT00131508).
 * Serves as subject matter expert for:
 	* High Availability
 	* Public Cloud Deployments
@@ -98,7 +99,7 @@
 * Representing the customer during conference calls with AT&T, and everything within my power to fully resolve the issue.
 
 
-#### NETWORK ADMINISTRATOR, RANGER SERVICES INC.; PEÑITAS, TX — 2001 - 2007
+#### NETWORK ADMINISTRATOR, RANGER SERVICES INC.; PEÑITAS, TX — 2001 - 2007
 * Developed and implemented a computing strategy that eased data flow to and from customers.
 * Built a new office network from the ground up with new wiring, switches, and WiFi access.
 * Set up and maintained an in-house Solaris 10 web and mail server.
