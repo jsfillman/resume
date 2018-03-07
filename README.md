@@ -142,6 +142,8 @@
 * Ability to quickly learn and adapt to new tools and processes.
 * Goal-oriented and highly motivated.  
 
-REFERRALS
 
+REFERRALS
 Upon Request
+
+The latest version of this resume is always available on [Bitbucket](https://bitbucket.org/jsfillman/resume/overview) and [GitHub](https://github.com/jsfillman/resume)
