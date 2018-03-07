@@ -6,8 +6,12 @@
 * Leads Clearvision's team of West Coast-based Client Services consultants.
 * Designs and implements advanced Atlassian solutions, based on client business requirements.
 * Designs and implements system infrastructure for clients, with a focus on high-availability.
-* Assisted Atlassian in the creation of their [ACP-500 Atlassian System Administrator](https://www.atlassian.com/university/certification/certifications/exam-acp-500) exam.
-* Certified as both a [JIRA Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=1&t=c&d=2017-10-17&ci=AT00131508) and [Atlassian System Administrator](https://www.certmetrics.com/atlassian/public/badge.aspx?i=5&t=c&d=2017-04-25&ci=AT00131508).
+* Deploys tools on numerous platforms including:
+	* Amazon Web Services (AWS)
+	* Microsoft Azure
+	* VMWare vSphere
+	* Containers (Docker, Kubernetes, etc.)
+	* Bare Metal
 * Serves as subject matter expert for:
 	* High Availability
 	* Public Cloud Deployments
