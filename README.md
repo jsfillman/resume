@@ -28,7 +28,7 @@ Solutions Architects and DevOps Engineer, with a proven track record in optimizi
 
 ### Solutions Architect - GitHub, San Francisco, CA
 *2019 - 2020*
-- **Client Solutions:** Advised Fortune 10 companies on GitHub platform, enhancing their development workflows and integrating educational tools.
+- **Client Solutions:** Advised Fortune 20 companies on GitHub platform, enhancing their development workflows and integrating educational tools.
 - **Efficiency Improvements:** Designed solutions, improving efficiency by 25% and integrating secure development practices.
 - **Security Consulting:** Advised on security vulnerability resolution, ensuring secure coding practices and enhancing client security postures.
 - **Educational Outreach:** Educated clients on security features and provided custom integration and API usage consultation, enhancing client satisfaction in educational technology projects.
