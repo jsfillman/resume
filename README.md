@@ -2,18 +2,7 @@
 
 ## Professional Summary
 
-Solutions Architect and DevOps Engineer with a proven track record in optimizing infrastructure and streamlining development processes. Successful in pre-sales, sealing deals over 75% of the time. Expert in delivering scalable solutions in educational, research, and high-demand environments. Skilled in consulting on AI integration and effective API utilization.
-
-## Skills
-
-- **DevOps & Automation**: GitHub Actions, Ansible, Puppet, CI/CD pipelines
-- **Cloud & Infrastructure**: AWS, Azure, Kubernetes, Docker
-- **Security & Compliance**: OAuth, LDAP, SAML, vulnerability detection
-- **Big Data & Analytics**: MongoDB, ArangoDB, Kafka, ElasticSearch
-- **Project Management**: Agile methodologies, Scrum, requirements gathering
-- **Tools & Platforms**: Atlassian Suite (JIRA, Confluence, Bitbucket), GitHub, GitLab
-- **Communication & Leadership**: Client consulting, team leadership, training and mentoring
-- **API Utilization**: Consulting on the effective use of published APIs for AI integration
+Solutions Architect and DevOps Engineer with a proven track record in optimizing infrastructure and streamlining development processes. Successful in pre-sales, sealing deals over 75% of the time. Expert in delivering scalable solutions in educational, research, and high-demand environments. Skilled in consulting on AI integration and effective API **utilization.
 
 ## Experience
 
@@ -96,3 +85,14 @@ Solutions Architect and DevOps Engineer with a proven track record in optimizing
 - **Web Projects:** Assisted in numerous web and multimedia projects using Adobe and Macromedia products.
 - **Chat System:** Built and deployed a custom chat system with monitoring, as required by our clients.
 - **Server Maintenance:** Set up and maintained Linux-based web, mail, and chat servers.
+
+## Skills
+
+- **DevOps & Automation**: GitHub Actions, Ansible, Puppet, CI/CD pipelines
+- **Cloud & Infrastructure**: AWS, Azure, Kubernetes, Docker
+- **Security & Compliance**: OAuth, LDAP, SAML, vulnerability detection
+- **Big Data & Analytics**: MongoDB, ArangoDB, Kafka, ElasticSearch
+- **Project Management**: Agile methodologies, Scrum, requirements gathering
+- **Tools & Platforms**: Atlassian Suite (JIRA, Confluence, Bitbucket), GitHub, GitLab
+- **Communication & Leadership**: Client consulting, team leadership, training and mentoring
+- **API Utilization**: Consulting on the effective use of published APIs for AI integration**
