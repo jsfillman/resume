@@ -20,9 +20,9 @@ Solutions Architect and DevOps Engineer with a proven track record in optimizing
 ### DevOps Engineer - Lawrence Berkeley National Laboratory
 *2020 - Present*
 - **Optimized Research Infrastructure:** Implemented Kubernetes to enhance scalability and reliability, supporting cutting-edge scientific research.
-- **Educational Technology:** Standardized builds to GitHub Actions, improving workflow efficiency for educational projects and scientific research.
-- **Security Enhancements:** Implemented security checks (Dependabot & Advanced Security), ensuring compliance with stringent research data protection standards.
-- **CI/CD Pipelines:** Designed CI/CD pipelines, reducing deployment times by 40%, thereby accelerating the development and deployment of educational software.
+- **Educational Technology:** Standardized builds to GitHub Actions, massively improving workflow efficieny.
+- **Security Enhancements:** Implemented security checks (Dependabot & Advanced Security), ensuring compliance with stringent DOE and ".govcloud" government standards.
+- **CI/CD Pipelines:** Designed full CI/CD pipelines, reducing deployment times for cutting-edge projects.
 - **Big Data Tools Support:** Managed and supported big data tools (MongoDB, ArangoDB, Min.io, Kafka, ElasticSearch), facilitating large-scale educational data analysis.
 - **DOE-Wide Tools:** Assisted with DOE-wide tools (Rancher 2, Perlmutter), contributing to national research initiatives and educational projects.
 
@@ -45,24 +45,24 @@ Solutions Architect and DevOps Engineer with a proven track record in optimizing
 ### Developer Tools Engineer - Machine Zone Inc, Palo Alto, CA
 *2014 - 2016*
 - **Team Leadership:** Founded and led Internal Dev Tools team, improving development efficiency and supporting educational technology development.
-- **Scalable Clusters:** Designed scalable HA clusters, increasing reliability by 35% and supporting large-scale educational projects.
-- **Data Center Migrations:** Reduced downtime by 50% through data center migrations, ensuring uninterrupted access to educational tools.
-- **Agile Adoption:** Led Agile adoption, enhancing team productivity by 20% and improving educational project timelines.
-- **IT Support:** Migrated IT team to JIRA Service Desk, streamlining support processes for educational technology.
+- **Scalable Clusters:** Designed scalable HA clusters, increasing reliability and accesibility for remote global teams.
+- **Data Center Migrations:** Reduced downtime by 50% through data center migrations, ensuring uninterrupted access to production systems.
+- **Agile Adoption:** Led Agile adoption, enhancing team productivity and supporting executive initiatives.
+- **IT Support:** Migrated IT team to JIRA Service Desk, streamlining support processes for all teams.
 
 ### Sr. Tools Developer - Good Technology, Sunnyvale, CA
 *2012 - 2014*
-- **Tool Management:** Owned developer and collaboration tools, enhancing team collaboration on educational projects.
-- **Atlassian Products:** Installed and configured Atlassian products, improving project management for educational software development.
-- **High-Availability Solutions:** Designed high-availability and disaster recovery solutions, reducing downtime by 45% and ensuring reliable educational technology deployment.
-- **Security Integration:** Integrated Active Directory and Crowd SSO authentication, enhancing security for educational tools.
+- **Tool Management:** Owned developer and collaboration tools, enhancing team collaboration on engineering projects.
+- **Atlassian Products:** Installed and configured Atlassian products, improving project management and develepor efficiency.
+- **High-Availability Solutions:** Designed high-availability and disaster recovery solutions for all core development tools.
+- **Security Integration:** Integrated Active Directory and Crowd SSO authentication, enhancing security for all supported tools.
 
 ### Systems Administrator - University of Texas, Austin, TX
 *2008 - 2012*
 - **System Support:** Supported Linux, Solaris, and OS X systems, ensuring system reliability for educational and research applications.
-- **Data Integrity:** Improved data integrity by 50% with backup solutions, safeguarding educational data.
-- **User Management:** Deployed LDAP authentication and NFS home directories, streamlining user management for educational institutions.
-- **System Modernization:** Reduced setup times by 60% through system deployment modernization, enhancing efficiency in educational projects.
+- **Data Integrity:** Improved data integrity by 50% with backup solutions, safeguarding educational data, for both UT Astronomy & HETDEX projects.
+- **User Management:** Deployed LDAP authentication and NFS home directories, streamlining user management for the Freshman Research Initiative.
+- **System Modernization:** Reduced setup times by 60% through system deployment modernization, enhancing efficiency for graduate student research.
 
 ### Mac Genius, Apple Retail - The Domain, Austin, TX
 *2008*
