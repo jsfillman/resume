@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-DevOps Engineer and Solutions Architect with a proven track record in optimizing infrastructure and streamlining development processes. Successful in pre-sales, sealing deals over 75% of the time. Expert in delivering scalable solutions in educational, research, and high-demand environments. Skilled in consulting on AI integration and utilizing published APIs effectively.
+Solutions Architects and DevOps Engineer, with a proven track record in optimizing infrastructure and streamlining development processes. Successful in pre-sales, sealing deals over 75% of the time. Expert in delivering scalable solutions in educational, research, and high-demand environments. Skilled in consulting on AI integration and utilizing published APIs effectively.
 
 ## Skills
 
